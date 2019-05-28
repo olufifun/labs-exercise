@@ -1,0 +1,22 @@
+{
+  "name": "labs-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olufifun/labs-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olufifun/labs-exercise/issues"
+  },
+  "homepage": "https://github.com/olufifun/labs-exercise#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
